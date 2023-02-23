@@ -5,3 +5,7 @@ body {
 .card {
   border: 1px solid black;
 }
+
+.water {
+  border: 3px solid blue;
+}
