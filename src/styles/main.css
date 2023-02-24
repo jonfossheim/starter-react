@@ -9,3 +9,10 @@ body {
 .water {
   border: 3px solid blue;
 }
+.fire {
+  border: 3px solid red;
+}
+
+.grass {
+  border: 3px solid green;
+}
